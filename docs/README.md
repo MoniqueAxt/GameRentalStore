@@ -22,7 +22,7 @@ This menu-run program allows customers, employees and managers to log-in to the 
 <details>
 <summary>Click to expand</summary>
 
-> ![Main menu](Employee_menu.png)
+![Main menu](Employee_menu.png)
 </details>
 
 ### Manager menu
@@ -30,26 +30,26 @@ This menu-run program allows customers, employees and managers to log-in to the 
 <details>
 <summary>Click to expand</summary>
 
-> ![Main menu](Manager_menu.png)
+![Main menu](Manager_menu.png)
 </details>
 
 
 ### Customer menu
 
-> ![Main menu](Customer_menu.png)
+![Main menu](Customer_menu.png)
 
 ### Feature: Messaging system
  
 <details>
  <summary>Sending messages</summary>
 
-> ![Main menu](Send_msg.png)
+![Main menu](Send_msg.png)
 </details>
 
 <details>
  <summary>Receiving messages</summary>
 
-> ![Main menu](Receive_msg.png)
+![Main menu](Receive_msg.png)
 </details>
 
 ### Feature: Transactions of games and song albums
