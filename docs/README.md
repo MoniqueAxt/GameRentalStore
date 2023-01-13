@@ -1,4 +1,4 @@
-# Video Game Rental System
+# <img src="https://github.com/MoniqueAxt/GameRentalStore/blob/master/docs/video%20game%20rental%20logo.png">
 
 ## Description
 
