@@ -12,8 +12,8 @@ This menu-run program allows customers, employees and managers to log-in to the 
 
 <details>
 <summary>Click to expand</summary>
-~~~~
-> ![Main menu](Main_menu.png)
+
+![Main menu](Main_menu.png)
 
 </details>
 
